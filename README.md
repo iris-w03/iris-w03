@@ -49,7 +49,7 @@
 
 ### 🏆 My Github Status
 <div>
-    <img height="200px" width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=iris-w03&theme=buefy&show_icons=true" /><img height="200px" width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iris-w03&hide=smalltalk&theme=buefy"/>
+    <img height="180px" align="left" src="https://github-readme-stats.vercel.app/api?username=iris-w03&theme=buefy&show_icons=true" /><img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iris-w03&hide=smalltalk&theme=buefy"/>
 </div>
 <br>
 <p align = "center">
