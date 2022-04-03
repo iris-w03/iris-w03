@@ -3,6 +3,7 @@
 ## Hi there 👋, I'm [Ziyue](https://github.com/iris-w03) 👩‍💻
 [![Linkedin Badge](https://img.shields.io/badge/iris--w0304-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iris-w0304/)](https://www.linkedin.com/in/iris-w0304/)
 [![Gmail Badge](https://img.shields.io/badge/-iris.w0304@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iris.w0304@gmail.com)](mailto:iris.w0304@gmail.com)
+![](https://komarev.com/ghpvc/?username=iris-w03&color=lightgrey)
 
 <img align= "right" width= "35%" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
