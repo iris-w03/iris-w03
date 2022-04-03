@@ -45,8 +45,11 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></code>
 
 #### 🌟 Desktop Environment
-<code><img height="40" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg"></code>
 
 ### 🏆 My Github Status
 <div>
