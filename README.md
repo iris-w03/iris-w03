@@ -7,6 +7,11 @@
 
 <img align= "right" width= "35%" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
+### 📖 About Me
+🙇🏻‍♀️ Pursuing my master degree in analytics in UChicago
+<br>
+🖥 Seeking fo Software Developer/DevOps Engineer
+
 ### 🎵 Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
 [![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/flipcase93)
 
