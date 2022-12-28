@@ -8,7 +8,7 @@
 <img align= "right" width= "35%" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 ### 📖 About Me
-🙇🏻‍♀️ Pursuing my Master degree in Analytics in UChicago
+🙇🏻‍♀️ UChicago's Data Science (MscA)
 <br>
 🖥 Seeking for Software Developer/DevOps Engineer
 
@@ -60,7 +60,4 @@
 <div>
     <img height="180px" align="left" src="https://github-readme-stats.vercel.app/api?username=iris-w03&theme=buefy&show_icons=true" /><img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iris-w03&hide=smalltalk&theme=buefy"/>
 </div>
-<br>
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=iris-w03&custom_title=Contribution_graph&bg_color=ffffff" width = "75%">
 </p>
